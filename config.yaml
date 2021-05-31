@@ -1,0 +1,4 @@
+samples: srrxyz
+fastp: path_to_fastp/fastp
+bwa: path_to_bwa/bwa
+samtools: path_to_samtools/samtools
