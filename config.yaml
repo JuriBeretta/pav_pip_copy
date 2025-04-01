@@ -1,4 +1,7 @@
-samples: srrxyz
-fastp: path_to_fastp/fastp
-bwa: path_to_bwa/bwa
-samtools: path_to_samtools/samtools
+genome: path/to/genome.fna
+theeads_confiig: nr_of_threads #integer
+
+fetchngs:
+  accession_list: sample_list.csv
+  outdir: "download"
+  
